@@ -1,0 +1,22 @@
+C:\Users\merve\OneDrive\Desktop\kendi çalışmalarım\KutuphaneYonetimSistemi v4\KutuphaneYonetimSistemi v4\bin\Debug\KutuphaneYonetimSistemi v4.exe.config
+C:\Users\merve\OneDrive\Desktop\kendi çalışmalarım\KutuphaneYonetimSistemi v4\KutuphaneYonetimSistemi v4\bin\Debug\KutuphaneYonetimSistemi v4.exe
+C:\Users\merve\OneDrive\Desktop\kendi çalışmalarım\KutuphaneYonetimSistemi v4\KutuphaneYonetimSistemi v4\bin\Debug\KutuphaneYonetimSistemi v4.pdb
+C:\Users\merve\OneDrive\Desktop\kendi çalışmalarım\KutuphaneYonetimSistemi v4\KutuphaneYonetimSistemi v4\bin\Debug\MySql.Data.dll
+C:\Users\merve\OneDrive\Desktop\kendi çalışmalarım\KutuphaneYonetimSistemi v4\KutuphaneYonetimSistemi v4\bin\Debug\System.Memory.dll
+C:\Users\merve\OneDrive\Desktop\kendi çalışmalarım\KutuphaneYonetimSistemi v4\KutuphaneYonetimSistemi v4\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\merve\OneDrive\Desktop\kendi çalışmalarım\KutuphaneYonetimSistemi v4\KutuphaneYonetimSistemi v4\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\merve\OneDrive\Desktop\kendi çalışmalarım\KutuphaneYonetimSistemi v4\KutuphaneYonetimSistemi v4\bin\Debug\System.Buffers.dll
+C:\Users\merve\OneDrive\Desktop\kendi çalışmalarım\KutuphaneYonetimSistemi v4\KutuphaneYonetimSistemi v4\bin\Debug\MySql.Data.xml
+C:\Users\merve\OneDrive\Desktop\kendi çalışmalarım\KutuphaneYonetimSistemi v4\KutuphaneYonetimSistemi v4\obj\Debug\KutuphaneYonetimSistemi v4.csproj.AssemblyReference.cache
+C:\Users\merve\OneDrive\Desktop\kendi çalışmalarım\KutuphaneYonetimSistemi v4\KutuphaneYonetimSistemi v4\obj\Debug\KutuphaneYonetimSistemi_v4.Properties.Resources.resources
+C:\Users\merve\OneDrive\Desktop\kendi çalışmalarım\KutuphaneYonetimSistemi v4\KutuphaneYonetimSistemi v4\obj\Debug\KutuphaneYonetimSistemi v4.csproj.GenerateResource.cache
+C:\Users\merve\OneDrive\Desktop\kendi çalışmalarım\KutuphaneYonetimSistemi v4\KutuphaneYonetimSistemi v4\obj\Debug\KutuphaneYonetimSistemi v4.csproj.CoreCompileInputs.cache
+C:\Users\merve\OneDrive\Desktop\kendi çalışmalarım\KutuphaneYonetimSistemi v4\KutuphaneYonetimSistemi v4\obj\Debug\Kutuphan.C47A6A28.Up2Date
+C:\Users\merve\OneDrive\Desktop\kendi çalışmalarım\KutuphaneYonetimSistemi v4\KutuphaneYonetimSistemi v4\obj\Debug\KutuphaneYonetimSistemi v4.exe
+C:\Users\merve\OneDrive\Desktop\kendi çalışmalarım\KutuphaneYonetimSistemi v4\KutuphaneYonetimSistemi v4\obj\Debug\KutuphaneYonetimSistemi v4.pdb
+C:\Users\merve\OneDrive\Desktop\kendi çalışmalarım\KutuphaneYonetimSistemi v4\KutuphaneYonetimSistemi v4\obj\Debug\KutuphaneYonetimSistemi_v4.FormAnaMenu.resources
+C:\Users\merve\OneDrive\Desktop\kendi çalışmalarım\KutuphaneYonetimSistemi v4\KutuphaneYonetimSistemi v4\obj\Debug\KutuphaneYonetimSistemi_v4.FormUyeler.resources
+C:\Users\merve\OneDrive\Desktop\kendi çalışmalarım\KutuphaneYonetimSistemi v4\KutuphaneYonetimSistemi v4\obj\Debug\KutuphaneYonetimSistemi_v4.FormOdunc.resources
+C:\Users\merve\OneDrive\Desktop\kendi çalışmalarım\KutuphaneYonetimSistemi v4\KutuphaneYonetimSistemi v4\obj\Debug\KutuphaneYonetimSistemi_v4.FormRapor.resources
+C:\Users\merve\OneDrive\Desktop\kendi çalışmalarım\KutuphaneYonetimSistemi v4\KutuphaneYonetimSistemi v4\obj\Debug\KutuphaneYonetimSistemi_v4.FormLogin.resources
+C:\Users\merve\OneDrive\Desktop\kendi çalışmalarım\KutuphaneYonetimSistemi v4\KutuphaneYonetimSistemi v4\obj\Debug\KutuphaneYonetimSistemi_v4.FormKitap.resources
