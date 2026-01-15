@@ -13,6 +13,6 @@ namespace KutuphaneYonetimSistemi_v4.Domain
         public int MemberId { get; set; }      
         public DateTime BorrowDate { get; set; } // Alış Tarihi
         public DateTime DueDate { get; set; }    // Teslim Etmesi Gereken Tarih
-        public DateTime? ReturnDate { get; set; } // İade Tarihi (NULL olabilir, o yüzden '?'var)
+        public DateTime? ReturnDate { get; set; } // İade Tarihi 
     }
 }

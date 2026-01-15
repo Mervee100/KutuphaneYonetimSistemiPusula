@@ -11,7 +11,7 @@ namespace KutuphaneYonetimSistemi_v4.DAL
     public class MemberDao
     {
         private string baglantiCumlesi = "Server=172.21.54.253;Database=26_132430071;Uid=26_132430071;Pwd=İnif123.;";
-                                                                                                                      
+
         // 1. EKLEME (INSERT)
         public void Add(Member uye)
         {
@@ -30,7 +30,7 @@ namespace KutuphaneYonetimSistemi_v4.DAL
                 komut.Parameters.AddWithValue("@p4", uye.Eposta);
                 komut.Parameters.AddWithValue("@p5", DateTime.Now); // Kayıt tarihi
 
-                
+
                 if (uye.DogumTarihi.HasValue)
                 {
                     komut.Parameters.AddWithValue("@dogum", uye.DogumTarihi.Value);
@@ -112,15 +112,17 @@ namespace KutuphaneYonetimSistemi_v4.DAL
                 komut.ExecuteNonQuery();
             }
         }
-
-        // 5. ARAMA (SEARCH)
+        // 5. ARAMA (SEARCH) - DÜZELTİLMİŞ HALİ
         public List<Member> Search(string aranan)
         {
             List<Member> uyeler = new List<Member>();
             using (MySqlConnection baglanti = new MySqlConnection(baglantiCumlesi))
             {
                 baglanti.Open();
-                string sorgu = "SELECT * FROM Members WHERE FirstName LIKE @p1 OR LastName LIKE @p1 OR Phone LIKE @p1";
+
+                // DİKKAT: Hem 'Aktif' olmalı HEM DE (Adı VEYA Soyadı VEYA Telefonu uymalı)
+                // Parantez kullanmazsan mantık hatası olur, pasifler de gelir.
+                string sorgu = "SELECT * FROM Members WHERE Status = 'Aktif' AND (FirstName LIKE @p1 OR LastName LIKE @p1 OR Phone LIKE @p1)";
 
                 MySqlCommand komut = new MySqlCommand(sorgu, baglanti);
                 komut.Parameters.AddWithValue("@p1", "%" + aranan + "%");
@@ -142,6 +144,8 @@ namespace KutuphaneYonetimSistemi_v4.DAL
             }
             return uyeler;
         }
+
     }
 }
+
 
