@@ -16,25 +16,25 @@ Bu proje, bir kütüphanedeki kitapların, üyelerin ve ödünç verme işlemler
 
 |Ana Menü |
 | :---: | 
-<img width="465" height="622" alt="anamenü" src="https://github.com/user-attachments/assets/03b8019c-7d42-4a82-ba4a-8846609ded43" />
+|<img width="465" height="622" alt="anamenü" src="https://github.com/user-attachments/assets/03b8019c-7d42-4a82-ba4a-8846609ded43" />
 
 
 | Raporlama Dashboard | 
 | :---: | 
-<img width="1717" height="898" alt="rapor" src="https://github.com/user-attachments/assets/8a08cc61-0972-44ce-a434-e8cad405f0e9" />
+|<img width="1717" height="898" alt="rapor" src="https://github.com/user-attachments/assets/8a08cc61-0972-44ce-a434-e8cad405f0e9" />
 
 | Kitap Yönetimi |
 | :---: | 
-<img width="1398" height="755" alt="kitap" src="https://github.com/user-attachments/assets/358f5b1e-970e-4ede-a61b-39fbf4f7c30b" />
+|<img width="1398" height="755" alt="kitap" src="https://github.com/user-attachments/assets/358f5b1e-970e-4ede-a61b-39fbf4f7c30b" />
 
 
 | Üye Yönetimi |
 | :---: |
-<img width="1360" height="774" alt="uye" src="https://github.com/user-attachments/assets/080d7075-2497-4372-a571-1b07213f3e71" />
+|<img width="1360" height="774" alt="uye" src="https://github.com/user-attachments/assets/080d7075-2497-4372-a571-1b07213f3e71" />
 
 Ödünç İşlemleri 
 | :---: |
-<img width="1557" height="732" alt="odunc" src="https://github.com/user-attachments/assets/3700fac6-08d5-4a11-9323-4ec5c24264ad" />
+|<img width="1557" height="732" alt="odunc" src="https://github.com/user-attachments/assets/3700fac6-08d5-4a11-9323-4ec5c24264ad" />
 
 
 ---
