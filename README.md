@@ -11,12 +11,13 @@ Bu proje, bir kütüphanedeki kitapların, üyelerin ve ödünç verme işlemler
 ## 📸 Ekran Görüntüleri
 
 | Giriş Ekranı | 
+| :---: | 
 | <img width="401" height="541" alt="login" src="https://github.com/user-attachments/assets/4d08a1e3-2d7e-46f0-a8d3-7a530e7c1450" />
 |Ana Menü |
 <img width="465" height="622" alt="anamenü" src="https://github.com/user-attachments/assets/03b8019c-7d42-4a82-ba4a-8846609ded43" />
 
 
-| Raporlama Dashboard | Kitap Yönetimi |
+| Raporlama Dashboard | 
 | :---: | 
 <img width="1717" height="898" alt="rapor" src="https://github.com/user-attachments/assets/8a08cc61-0972-44ce-a434-e8cad405f0e9" />
 | Kitap Yönetimi |
