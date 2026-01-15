@@ -4,7 +4,7 @@
 
 Bu proje, bir kütüphanedeki kitapların, üyelerin ve ödünç verme işlemlerinin dijital ortamda profesyonelce takip edilmesini sağlayan, **N-Katmanlı Mimari** yapısına uygun olarak geliştirilmiş bir **C# Windows Forms** uygulamasıdır.
 
-Özellikle yöneticilerin kütüphane verilerini analiz etmesini sağlayan gelişmiş **Raporlama Modülü** ile öne çıkmaktadır.
+Ayrıca, verileri anlık grafikler üzerinden analiz etmeye olanak sağlayan dinamik bir Dashboard (Raporlama) yapısına sahiptir.
 
 ---
 
