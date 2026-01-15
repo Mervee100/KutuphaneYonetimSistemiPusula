@@ -12,19 +12,23 @@ Bu proje, bir kütüphanedeki kitapların, üyelerin ve ödünç verme işlemler
 
 | Giriş Ekranı | Ana Menü |
 | :---: | :---: |
-| <img src="<img width="401" height="541" alt="login" src="https://github.com/user-attachments/assets/2eb485f9-e623-4eee-bd74-dc11216b3bdf" />
-in.png" width="400"> | <img src="<img width="465" height="622" alt="anamenü" src="https://github.com/user-attachments/assets/8362ed4b-cc4f-4ded-8d86-da701bf37603" /> width="400"> |
+| <img width="401" height="541" alt="login" src="https://github.com/user-attachments/assets/4d08a1e3-2d7e-46f0-a8d3-7a530e7c1450" />
+<img width="465" height="622" alt="anamenü" src="https://github.com/user-attachments/assets/03b8019c-7d42-4a82-ba4a-8846609ded43" />
+
 
 | Raporlama Dashboard | Kitap Yönetimi |
 | :---: | :---: |
-| <img src="EkranGoruntuleri/rapor.png" width="400"> | <img src="EkranGoruntuleri/kitap.png" width="400"> |<img width="1717" height="898" alt="rapor" src="https://github.com/user-attachments/assets/680be761-7093-4431-8af9-c77e08ab2ca0" /><img width="1398" height="755" alt="kitap" src="https://github.com/user-attachments/assets/7b79ffb6-134a-4ced-9591-96c1c82761a5" />
+<img width="1717" height="898" alt="rapor" src="https://github.com/user-attachments/assets/8a08cc61-0972-44ce-a434-e8cad405f0e9" />
 
+<img width="1398" height="755" alt="kitap" src="https://github.com/user-attachments/assets/358f5b1e-970e-4ede-a61b-39fbf4f7c30b" />
 
 
 | Üye Yönetimi | Ödünç İşlemleri |
 | :---: | :---: |
-| <img src="EkranGoruntuleri/uye.png" width="400"> | <img src="EkranGoruntuleri/odunc.png" width="400"> |<img width="1360" height="774" alt="uye" src="https://github.com/user-attachments/assets/8196d93b-a4ae-4889-b2c6-240709fd9bad" /><img width="1557" height="732" alt="odunc" src="https://github.com/user-attachments/assets/5ee35129-d1f5-457e-8bbe-06c64168e7ae" />
+| 
 
+<img width="1360" height="774" alt="uye" src="https://github.com/user-attachments/assets/080d7075-2497-4372-a571-1b07213f3e71" />
+<img width="1557" height="732" alt="odunc" src="https://github.com/user-attachments/assets/3700fac6-08d5-4a11-9323-4ec5c24264ad" />
 
 
 ---
