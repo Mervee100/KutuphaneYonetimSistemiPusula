@@ -96,7 +96,6 @@ Proje, sürdürülebilirlik ve temiz kod prensipleri gözetilerek **N-Katmanlı 
 ## 📞 İletişim
 
 * **Geliştirici:** [Merve Yılmaz]
-* **LinkedIn:** [Linkedin Profil Linkiniz]
 * **E-posta:** [merve18062006@gmail.com]
 
 ---
